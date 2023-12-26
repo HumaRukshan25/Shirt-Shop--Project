@@ -1,0 +1,23 @@
+/* ProductList.css */
+h2 {
+    color: #333;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  hr {
+    margin: 10px 0;
+    border: 0.5px solid #ddd;
+  }
+  

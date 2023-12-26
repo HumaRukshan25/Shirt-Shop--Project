@@ -1,0 +1,20 @@
+/* CartItem.css */
+p {
+    margin-bottom: 5px;
+  }
+  
+  hr {
+    margin: 5px 0;
+    border: 0.5px solid #ddd;
+  }
+  /* CartItem.css */
+.cart-item-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
